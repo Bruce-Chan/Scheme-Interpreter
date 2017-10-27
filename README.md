@@ -5,8 +5,6 @@ An interpreter for a subset of the Scheme language.
 
 Since I only include a subset of the language, my interpreter will not exactly match the behavior of other interpreters.
 
-This project includes several files, but all of your changes will be made to the first four: scheme.py, scheme_reader.py, questions.scm, and tests.scm. You can download all of the project code as a zip archive, which contains the following files:
-
 scheme.py: the Scheme evaluator
 scheme_reader.py: the Scheme syntactic analyzer
 questions.scm: a collection of functions written in Scheme
